@@ -1,2 +1,2 @@
-# years-of-Code-Python
+# years-of-code-python
 Code python everyday
